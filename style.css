@@ -1,0 +1,23 @@
+.border {
+    border-radius: 10px;
+    border-style: solid;
+    border-color:pink ;
+    
+}
+#cal {
+    display: flex;
+    background-color: pink;
+    width: 240px;
+    height: 350px;
+    padding: 25px;
+    margin:auto;
+   
+}
+.center{
+    right: 30px;
+}
+.visor{
+    font-size: 1.5em;
+    background-color: black;
+    color: blanchedalmond;
+}
